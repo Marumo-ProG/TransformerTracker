@@ -1,0 +1,445 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "16 kVA",
+        "pole": "JJF 77/2"
+      },
+      "geometry": {
+        "coordinates": [29.854561,-24.7580719],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "100 kVA",
+        "pole": ""
+      },
+      "geometry": {
+        "coordinates": [29.8511364,-24.7556867],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "50 kVA",
+        "pole": "JJF 79/5/6/5"
+      },
+      "geometry": {
+        "coordinates": [29.852731,-24.7620356],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "100 kVA",
+        "pole": "JJF 79/5/5"
+      },
+      "geometry": {
+        "coordinates": [29.8511364,-24.7556867],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "200 kVA",
+        "pole": "JJF 79/5/14"
+      },
+      "geometry": {
+        "coordinates": [29.8527311,-24.7620356],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "16 kVA",
+        "pole": "JJF79/5/21/2"
+      },
+      "geometry": {
+        "coordinates": [29.8475283,-24.754485],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "64 kVA",
+        "pole": ""
+      },
+      "geometry": {
+        "coordinates": [29.8531333,-24.7446634],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "32 kVA",
+        "pole": ""
+      },
+      "geometry": {
+        "coordinates": [29.8531333,-24.7446634],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "100 kVA",
+        "pole": ""
+      },
+      "geometry": {
+        "coordinates": [29.8507274,-24.7502031],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "16 kVA",
+        "pole": "JJF79/19/4"
+      },
+      "geometry": {
+        "coordinates": [29.8507274,-24.7502031],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "50 kVA",
+        "pole": "JJF79/15"
+      },
+      "geometry": {
+        "coordinates": [29.8548787,-24.7498881],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "16 kVA",
+        "pole": "JJF79/1"
+      },
+      "geometry": {
+        "coordinates": [29.851325,-24.7564741],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "100 kVA",
+        "pole": ""
+      },
+      "geometry": {
+        "coordinates": [29.8511364,-24.7556867],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "32 kVA",
+        "pole": "JJF 79/18/1"
+      },
+      "geometry": {
+        "coordinates": [29.8560265,-24.7591413],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "",
+        "pole": "JJF 59A/6/7"
+      },
+      "geometry": {
+        "coordinates": [29.8605081,-24.753308],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "25 kVA",
+        "pole": "JJF 59A/6/6"
+      },
+      "geometry": {
+        "coordinates": [29.8604656,-24.7530772],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "50 kVA",
+        "pole": "JJF 59A/6/3/2"
+      },
+      "geometry": {
+        "coordinates": [29.8605075,-24.7533241],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "32 kVA",
+        "pole": "JJF 79/24/3"
+      },
+      "geometry": {
+        "coordinates": [29.8618395,-24.7543402],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "64 kVA",
+        "pole": "JJF 79/26/2"
+      },
+      "geometry": {
+        "coordinates": [29.8595733,-24.7461267],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "100 kVA",
+        "pole": "JJF 79/23"
+      },
+      "geometry": {
+        "coordinates": [29.8590083,-24.7479173],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "64 kVA",
+        "pole": "JJF 79/24/4/1"
+      },
+      "geometry": {
+        "coordinates": [29.8556649,-24.7551912],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "",
+        "pole": "JSK 40/1"
+      },
+      "geometry": {
+        "coordinates": [29.862987,-24.7458847],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "",
+        "pole": "JSK 40/2/1"
+      },
+      "geometry": {
+        "coordinates": [29.866671,-24.7517009],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "25 kVA",
+        "pole": "JSK 53/4/12/2"
+      },
+      "geometry": {
+        "coordinates": [29.8665984,-24.7518049],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "16 kVA",
+        "pole": "JJF 79/24/15A/2"
+      },
+      "geometry": {
+        "coordinates": [29.8653871,-24.7522875],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "25 kVA",
+        "pole": "JCJ 106/3/3/4"
+      },
+      "geometry": {
+        "coordinates": [29.8444533,-24.7707332],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "50 kVA",
+        "pole": "TRF 08 JGC 106/3/7/9"
+      },
+      "geometry": {
+        "coordinates": [29.8265322,-24.7916759],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "50 kVA",
+        "pole": "TRF 11 JGC 106-3-7-11-4"
+      },
+      "geometry": {
+        "coordinates": [29.8216465,-24.7972584],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "50 kVA",
+        "pole": "TRF 15 JGC 106/3/7/11/3/5"
+      },
+      "geometry": {
+        "coordinates": [29.8531333,-24.7614516],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "50 kVA",
+        "pole": "TRF 07 JGC 106/3/7/2"
+      },
+      "geometry": {
+        "coordinates": [29.8254478,-24.7946037],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "16 / 32 kVA",
+        "pole": "TRF 13 JGC 106/3/10/4/1"
+      },
+      "geometry": {
+        "coordinates": [29.8216658,-24.7971973],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "100 kVA",
+        "pole": "JGC 106/3/13/6"
+      },
+      "geometry": {
+        "coordinates": [29.8444533,-24.7707332],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "16 kVA",
+        "pole": "JGC 106/3/13/4"
+      },
+      "geometry": {
+        "coordinates": [29.8216658,-24.7971973],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "50 kVA",
+        "pole": "TRF 04 JGC 106/3/30/1/6"
+      },
+      "geometry": {
+        "coordinates": [29.8531333,-24.7614516],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "",
+        "pole": "JGC 106/3/35"
+      },
+      "geometry": {
+        "coordinates": [29.853133,-24.7614516],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "16 kVA",
+        "pole": "TRF 02 JGC 106-3-31-4"
+      },
+      "geometry": {
+        "coordinates": [29.8527717,-24.7615306],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "100 kVA",
+        "pole": "JGC 106/3/21A"
+      },
+      "geometry": {
+        "coordinates": [29.8444533,-24.7707332],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "100 kVA",
+        "pole": "JGC 106-3-2-3"
+      },
+      "geometry": {
+        "coordinates": [29.8444533,-24.7707332],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "25 kVA",
+        "pole": "JGC 103/2/"
+      },
+      "geometry": {
+        "coordinates": [29.8296738,-24.7907168],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "transformer": "50 kVA",
+        "pole": "JGC 106/3/19/7"
+      },
+      "geometry": {
+        "coordinates": [29.8298559,-24.7906561],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
